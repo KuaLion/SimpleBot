@@ -1,3 +1,3 @@
 
 
-Here is my first python project.
+Simplebot is my first python project.
